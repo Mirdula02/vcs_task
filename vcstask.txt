@@ -1,4 +1,4 @@
-Hello!This is my first task on GIT as an DevOps learner
+Hello!This is my first task on GIT as an DevOps learner of GUVI and 5th task in overall curriculum
 
 
 #NEW BRANCH FOR MERGING
@@ -9,3 +9,5 @@ Hello!This is my first task on GIT as an DevOps learner
 #NEW BRANCH FOR REBASE
        Making some changes to perform Rebase operation
        This is to be updated in the Git repo
+#STASH OPERATION
+       The last divison is to perform Stash operation
