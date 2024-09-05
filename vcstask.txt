@@ -1,6 +1,11 @@
 Hello!This is my first task on GIT as an DevOps learner
 
 
-#NEW BRANCH MERGING
+#NEW BRANCH FOR MERGING
     performing operations such as Merge,Rebase and Stash in the given task
     The task is to be done in GIT
+
+
+#NEW BRANCH FOR REBASE
+       Making some changes to perform Rebase operation
+       This is to be updated in the Git repo
