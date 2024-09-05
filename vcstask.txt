@@ -1,1 +1,6 @@
 Hello!This is my first task on GIT as an DevOps learner
+
+
+#NEW BRANCH MERGING
+    performing operations such as Merge,Rebase and Stash in the given task
+    The task is to be done in GIT
